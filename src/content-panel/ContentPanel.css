@@ -131,6 +131,10 @@
     outline: 1px solid var(--color-caricature-event-outline);
     background-color: var(--color-caricature-event-background);
 }
+.eras-text-frame-tech-event {
+    outline: 1px solid var(--color-historic-event-outline);
+    background-color: var(--color-historic-event-background);
+}
 
 /* era header */
 .era-sticky-header {
@@ -246,6 +250,10 @@
 .detailed-event-frame-caricature-event {
     outline-color: var(--color-caricature-event-outline);
     background-color: var(--color-caricature-event-background);
+}
+.detailed-event-frame-tech-event {
+    outline-color: var(--color-historic-event-outline);
+    background-color: var(--color-historic-event-background);
 }
 
 /* secondary image */
