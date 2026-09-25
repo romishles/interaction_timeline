@@ -88,6 +88,7 @@
 }
 .eras-image-frame img {
     width: auto;
+    object-fit: cover;
     box-shadow: var(--img-box-shadow);
 }
 
