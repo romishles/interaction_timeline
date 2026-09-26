@@ -119,6 +119,7 @@
     margin: 0;
     width: fit-content;
     text-align: right;
+    overflow-wrap: break-word;
 }
 .eras-text-frame-description {
     margin: 0;
