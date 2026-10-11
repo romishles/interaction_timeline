@@ -267,7 +267,7 @@
   {
     "path": "1000/32.jpg",
     "width": 1000,
-    "height": 1000
+    "height": 882
   },
   {
     "path": "1000/33.jpg",
@@ -887,7 +887,7 @@
   {
     "path": "200/32.jpg",
     "width": 200,
-    "height": 200
+    "height": 176
   },
   {
     "path": "200/33.jpg",
@@ -1507,7 +1507,7 @@
   {
     "path": "2000/32.jpg",
     "width": 1254,
-    "height": 1254
+    "height": 1106
   },
   {
     "path": "2000/33.jpg",
