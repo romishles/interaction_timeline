@@ -153,6 +153,14 @@
     margin: 0;
     white-space: pre;
 }
+/* detailed view: pin exactly one era title to the right edge, matching the eras view's resting position.
+   position:fixed (not the inherited absolute) because .header-container is sized to the full scrollable
+   eras-view content width, not the viewport, so a percentage offset against it lands off-screen. */
+.era-sticky-header-pinned {
+    position: fixed;
+    top: calc(var(--app-padding) + var(--header-container-height) / 2);
+    right: 2%;
+}
 
 /* ------------------------------------ detailed layout -------------------------------------- */
 .detailed-frames-container {
